@@ -1,1 +1,2 @@
-# Srinidhi-Houji-s-PRO-C31-CRUSH-THE-ZOMBIE-3
+# zombie-crush-3
+project solution of c31
